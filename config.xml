@@ -2,7 +2,7 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/TBL20/stats/team</baseurl>
-		<league>TSL</league>
+		<league>tbl</league>
 		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
